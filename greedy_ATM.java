@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main{
+public class greedy_ATM{
 	 static int N;
 	public static void main(String[] arg) {
 		Scanner input = new Scanner(System.in);
