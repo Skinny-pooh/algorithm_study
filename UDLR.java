@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class UDLR {
 
     // 상 하 좌 우
     static int[][] dir = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
